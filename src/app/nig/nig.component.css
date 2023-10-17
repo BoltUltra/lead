@@ -1,0 +1,33 @@
+.btn-orange {
+    background-color: #F7941D;
+}
+
+.bg-xolor {
+    background-color: #37860C;
+}
+
+nav {
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+.hero {
+    background-image: url(../../assets/images/Hero-section-nig.png);
+    background-size: cover;
+    background-position: center;
+    height: 150vh;
+  }
+
+  .bg-secondary-nig {
+    background-color: #83A602;
+  }
+
+  .cta {
+    background: linear-gradient(90deg, rgba(217, 217, 217, 0.00) 0%, rgba(146, 175, 39, 0.22) 40.86%, rgba(139, 171, 22, 0.24) 44.6%, rgba(131, 166, 2, 0.26) 49.25%, rgba(139, 171, 23, 0.23) 54.2%, rgba(217, 217, 217, 0.00) 100%);
+    }
+  
+  .pricing-information {
+    background-image: url(../../assets/images/pricing-information.png);
+    background-size: contain;
+    background-position: center;
+  }
