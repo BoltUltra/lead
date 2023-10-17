@@ -1,0 +1,70 @@
+.imagemargin{
+    margin-top: -5rem;
+    margin-right: 9rem !important;
+}
+
+.w-75{
+    width: 100% !important;
+}
+
+@media (max-width: 1125px){
+    .imagemargin{
+        margin-top: 0rem !important;
+        margin-left: -8rem !important;
+    }
+
+
+    .ms-5{
+        margin-left:0rem !important;
+    }
+
+
+    .w-75{
+        width: 98% !important;
+   
+    }
+}
+
+
+
+@media (max-width: 567px){
+    .imagemargin{
+        margin-top: 0rem !important;
+        margin-left: -10rem !important;
+    }
+}
+
+
+
+/* color */
+.btnpurple{
+    padding: 1.25rem 0 !important;
+    background-color: blueviolet !important;
+    color: white;
+}
+
+.bordermargin{
+    width: 5rem;
+    height: 5rem;
+    padding-top: 1.5rem;
+    border-radius: 100% !important;
+}
+
+.faqsection{
+    margin-top: 5rem;
+   
+    color: blueviolet;
+    border-bottom: solid;
+    margin-bottom: 1rem;
+    width: 3.5rem;
+}
+
+.input-group{
+    width: 59%;
+}
+
+.mx-6{
+    margin-left: -6.5rem;
+    z-index: 9999;
+    background-color: blueviolet !important;
+}
