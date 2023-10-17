@@ -21,12 +21,12 @@ module.exports = {
     extend: {
       fontFamily: {
         opensans: ["Open Sans", "sans-serif"],
-        colors: {
-          "primary-nig": "#9747FF",
-          "secondary-nig": "#3D0C7D",
-          "primary-intl": "#385512",
-          "secondary-intl": "#39900E",
-        },
+      },
+      colors: {
+        "primary-intl": "#9747FF",
+        "secondary-intl": "#3D0C7D",
+        "primary-nig": "#385512",
+        "secondary-nig": "#39900E",
       },
     },
   },
