@@ -1,0 +1,20 @@
+.btn-orange {
+    background-color: #F7941D !important;
+}
+
+nav {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.hero {
+    background-image: url('../../../assets/images/kado-bg.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+
+  .btngreen {
+    background-color: #39900E;
+    color: white
+  }
